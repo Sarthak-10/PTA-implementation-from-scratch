@@ -20,3 +20,9 @@ The above constitutes a forward pass of the Perceptron Training Algorithm.
 ![image](https://user-images.githubusercontent.com/55259635/223994541-b905a440-4adc-4687-9822-91f538a6be5e.png)
 
 In the backward pass if the above error condition is met then weight update as described in the above image takes place.
+
+Both the forward and the backward passes comprise one epoch of the Perceptron Training Algorithm.
+We keep on iterating over the samples untill all the datapoints have been correctly classified.
+However note that a single perceptron can only classify linearly separable data.This was shown by Minsky and Papert in 1968.
+
+You can read more about PTA [here](https://towardsdatascience.com/perceptron-learning-algorithm-d5db0deab975)
