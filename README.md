@@ -1,5 +1,9 @@
 # PTA-implementation-from-scratch
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](PTA_driver_code.ipynb)
+
+:star:**Please star the repository if you happen to like the project**
+
 The .ipynb file contains the solution to the attached Problem Statement.The utils.py file contains the code for the Perceptron Training Algorithm and it is imported in the driver code. 
 
 **About the Perceptron Training Algorithm (PTA)**
